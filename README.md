@@ -38,7 +38,7 @@ Rows, columns, time period, source.
 
 
 ## 📝 Full Write-up
-[Read the detailed analysis on Medium](https://medium.com/@georgietteansaah.tech)
+[Read the detailed analysis on Medium](https://medium.com/@georgietteansaah.tech/excel-project-wexford-rowan-q3-sales-performance-b995da545e8d)
 
 
 ## 🖼️ Light Mode

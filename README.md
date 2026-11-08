@@ -42,7 +42,7 @@ Rows, columns, time period, source.
 
 
 ## 🖼️ Light Mode
-![Light Dashboard](https://github.com/GeorgietteAnsaah-Portfolio/SALES-PERFORMANCE-ANALYSIS-EXCEL-PROJECT/blob/main/Screenshot%202026-11-08%20124827.png)
+![Light Dashboard](https://github.com/GeorgietteAnsaah-Portfolio/SALES-PERFORMANCE-ANALYSIS-EXCEL-PROJECT/blob/main/Screenshot%202026-10-21%20150943.png)
 
 ## 🖼️ Dark Mode
 ![Dark Dashboard](https://github.com/GeorgietteAnsaah-Portfolio/SALES-PERFORMANCE-ANALYSIS-EXCEL-PROJECT/blob/main/Screenshot%202026-11-08%20124827.png)

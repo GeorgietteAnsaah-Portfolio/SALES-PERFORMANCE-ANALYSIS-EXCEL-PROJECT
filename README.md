@@ -1,31 +1,51 @@
-# 📊 Sales Performance Analysis
-
-## ⚒️ Tools Used
--Microsoft Excel
--Google Sheets
+# 📊 Sales Performance Analysis – Wexford & Rowan (Q3)
+Excel dashboard analysing Q3 sales, profit margins and customer behaviour
+to help leadership plan for the Q4 holiday season.
 
 
-## 📉 Project Overview
-This project analyzes Q3 sales performance for Wexford & Rowan, a US-based multi-category retailer.
-It explores trends, profit margins and customer behavior using pivot tables and interactive dashboards.
-The analysis was done to help the leadership team understand what drove Q3 results and plan for the Q4 holiday season.
+## 🎯 Business Problem
+Leadership didn't have a clear picture of what drove Q3 sales across categories, states and customer segments. 
+They needed these insights to plan for the Q4 holiday season.
 
 
-## 💡 What I learned
-- How to clean messy Excel data using formulas
-- How to summarize KPIs using pivot tables
-- How to visualize insights in Excel by creating interactive Dashboards
+## 📁 Dataset
+Rows, columns, time period, source.
 
 
-## 🔗 Preview
-https://github.com/GeorgietteAnsaah-Portfolio/SALES-PERFORMANCE-ANALYSIS-EXCEL-PROJECT/blob/main/Screenshot%202026-11-08%20124827.png -Dark Dashboard
+## 🛠️ Tools
+- Microsoft Excel (formulas, pivot tables, slicers)
+- Google Sheets
 
-https://github.com/GeorgietteAnsaah-Portfolio/SALES-PERFORMANCE-ANALYSIS-EXCEL-PROJECT/blob/main/Screenshot%202026-10-21%20150943.png  -Light Dashboard
 
-> Click the image above to see a preview of the final dashboard.
+## 🔍 Approach
+1. Cleaned data (duplicates, blanks, inconsistent formats)
+2. Built KPIs with pivot tables
+3. Designed an interactive dashboard with slicers
 
-# sales-performance-analysis
-This repo contains a beginner-friendly sales analysis project done in Excel
+
+## 📈 Key Insights
+- **$264K** revenue from **2,000 orders**; September up **30%**
+- Fashion, Home & Electronics drove **63%** of revenue
+- California was the top state; Arizona the lowest
+- Weekends and evenings (**37.5%**) were busiest
+- Ages **26–40** placed the most orders (**38.4%**)
+
+
+## ✅ Recommendations
+- Boost stock and promotions for Fashion, Home & Electronics
+- Increase marketing in California and Texas, and research why Arizona lags
+- Add staff and promos on weekends and evenings, targeting ages 26–40
+
+
+## 📝 Full Write-up
+[Read the detailed analysis on Medium](https://medium.com/@georgietteansaah.tech)
+
+
+## 🖼️ Light Mode
+![Light Dashboard](images/dashboard-light.png)
+
+## 🖼️ Dark Mode
+![Dark Dashboard](images/dashboard-light.png)
 
 
 
